@@ -10,6 +10,9 @@ public class StudentTest {
         s1.isJunior=true;
         s1.gender='f';
 
+        s1.info();
+
+
 
 
 

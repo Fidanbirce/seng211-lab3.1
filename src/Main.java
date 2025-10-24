@@ -9,6 +9,11 @@ public class Main {
         Student s1=new Student();
         s1.info();
 
+        System.out.println(s1.age);
+        System.out.println(s1.name);
+        s1.info();
+
+
 
 
     }
