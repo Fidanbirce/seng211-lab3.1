@@ -4,6 +4,9 @@ public class Student {
     boolean isJunior;
     char gender;
 
+
+
+
     public Student(){
         name=" ";
         age=0;
@@ -11,13 +14,13 @@ public class Student {
         gender='m';
     }
 
+
+
     public void info(){
         System.out.println("Name: "+name);
         System.out.println("Age: "+age);
         System.out.println("isJunior: "+isJunior);
         System.out.println("Gender: "+gender);
-
-
 
     }
 
